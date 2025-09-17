@@ -8,7 +8,8 @@ This repository contains all research data, scripts, reports, and supporting mat
 
 ## Project Structure
 
-Generative_AI_Research_SID/
+```
+Generative_AI_Research_47631771/
 │
 ├── literature/
 │   ├── journal_articles/
@@ -37,4 +38,7 @@ Generative_AI_Research_SID/
 │   └── media/
 │
 └── project_logbook.txt
+
+
+```
 
