@@ -6,6 +6,8 @@ This repository contains all research data, scripts, reports, and supporting mat
 
 
 
+## Project Structure
+
 Generative_AI_Research_SID/
 │
 ├── literature/
