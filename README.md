@@ -42,3 +42,9 @@ Generative_AI_Research_47631771/
 
 ```
 
+## Contribution Guidelines
+
+1. Use clear commit messages (e.g., `Added raw_data folder with survey file`).
+2. Create a new branch for each feature or fix.
+3. Submit a pull request for review before merging into `main`.
+4. Do not upload files containing personal or sensitive data (e.g., raw consent forms).
